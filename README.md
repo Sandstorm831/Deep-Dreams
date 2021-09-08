@@ -41,4 +41,4 @@ Here are some good reading stuff
 
 - [google deep dream](https://github.com/google/deepdream)
 - [pytorch-deepdream](https://github.com/gordicaleksa/pytorch-deepdream)
-- [deep dream in pytorch[(https://github.com/duc0/deep-dream-in-pytorch)
+- [deep dream in pytorch](https://github.com/duc0/deep-dream-in-pytorch)
