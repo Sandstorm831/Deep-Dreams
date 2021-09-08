@@ -22,7 +22,7 @@ By twitching different models, layers, image pyramid size many different types o
 ![processed_toucan](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Processed%20Images/processed_toucan.png)
 
 
-![sky-dd](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Original%20Images/sky-dd.jpeg)
+![sky-dd](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Original%20Images/sky-dd.jpeg/300x300)
 ![processed_sky-dd](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Processed%20Images/processed_sky-dd.png)
 
 
