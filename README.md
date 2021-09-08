@@ -18,6 +18,8 @@ we got out final highest resoulution image. This is called image pyramid, and by
 
 ## Results
 By twitching different models, layers, image pyramid size many different types of images can be created. Here are some examples.
+
+
 ![Toucan](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Original%20Images/Toucan.jpg)
 ![processed_toucan](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Processed%20Images/processed_toucan.png)
 
