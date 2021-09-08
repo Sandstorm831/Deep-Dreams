@@ -7,7 +7,7 @@ visualize what the neuron or one of the layer of a deep neural network is actual
 We generally take a pretrained neural network and then select a random layer from it. In it we have to 
 amplify the output from that particular layer, which we do by applying gradient ascent.
 
-![image](https://user-images.githubusercontent.com/76916164/132575227-66bda8b3-3432-42db-aaee-bfa8e4219e12.png)
+![image](https://leimao.github.io/blog/Image-Pyramids-In-Deep-Learning/)
 ![image](https://user-images.githubusercontent.com/76916164/132576082-fc5ab9b8-fb6e-4b6d-a2ae-f5a51dfedb25.png)
 ![image](https://user-images.githubusercontent.com/76916164/132576122-a4d9a1a2-1070-4240-9192-3dbbebe2f67a.png)
 ![image](https://user-images.githubusercontent.com/76916164/132576142-ecfdead5-3e32-4a6c-b6db-7306a68643dc.png)
@@ -23,12 +23,15 @@ By twitching different models, layers, image pyramid size many different types o
 ![processed_toucan](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Processed%20Images/processed_toucan.png)
 
 
+![sky-dd](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Original%20Images/sky-dd.jpeg)
 ![processed_sky-dd](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Processed%20Images/processed_sky-dd.png)
 
 
+![daali](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Original%20Images/daali.jpg)
 ![processed_daali](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Processed%20Images/processed_daali.png)
 
 
+![wave](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Original%20Images/wave.jpeg)
 ![processed_wave](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Processed%20Images/processed_wave.png)
 
 
