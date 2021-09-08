@@ -7,7 +7,6 @@ visualize what the neuron or one of the layer of a deep neural network is actual
 We generally take a pretrained neural network and then select a random layer from it. In it we have to 
 amplify the output from that particular layer, which we do by applying gradient ascent.
 
-![image](https://leimao.github.io/blog/Image-Pyramids-In-Deep-Learning/)
 ![image](https://user-images.githubusercontent.com/76916164/132576082-fc5ab9b8-fb6e-4b6d-a2ae-f5a51dfedb25.png)
 ![image](https://user-images.githubusercontent.com/76916164/132576122-a4d9a1a2-1070-4240-9192-3dbbebe2f67a.png)
 ![image](https://user-images.githubusercontent.com/76916164/132576142-ecfdead5-3e32-4a6c-b6db-7306a68643dc.png)
