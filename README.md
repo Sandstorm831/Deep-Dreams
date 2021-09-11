@@ -7,9 +7,7 @@ visualize what the neuron or one of the layer of a deep neural network is actual
 We generally take a pretrained neural network and then select a random layer from it. In it we have to 
 amplify the output from that particular layer, which we do by applying gradient ascent.
 
-![image](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Images/132576082-fc5ab9b8-fb6e-4b6d-a2ae-f5a51dfedb25.png)
-![image](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Images/132576122-a4d9a1a2-1070-4240-9192-3dbbebe2f67a.png)
-
+![image](https://github.com/Sandstorm831/Deep-Dreams/blob/main/Images/Image_Pyramid.png)
 
 
 In implementing deepdreams, we initially apply deepdream on a downsampled low resolution formats of the original image
